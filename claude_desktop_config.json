@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "resume-reviewer": {
+      "command": "D:/ClassNotes/642/Program/.venv/Scripts/python.exe",
+      "args": [
+        "D:/ClassNotes/642/Program/mcp_server.py"
+      ],
+      "cwd": "D:/ClassNotes/642/Program",
+      "file_access": "allow",
+      "env": {
+        "PYTHONUNBUFFERED": "1",
+        "OPENAI_API_KEY": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "RAPIDAPI_KEY ": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+    }
+  }
+}
